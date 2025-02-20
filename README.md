@@ -1,6 +1,6 @@
-##The Rise of the Stjerneblods##
+**The Rise of the Stjerneblods**
 
-###A Nordic Saga###
+***A Nordic Saga***
 
 
 The exotic flora of Veles bent under Sigurd Stjerneskjold's heavy boots, each step like the press of iron into the earth. The vegetation beneath him felt strange, firm yet pliant, crunching faintly in the crisp air. 

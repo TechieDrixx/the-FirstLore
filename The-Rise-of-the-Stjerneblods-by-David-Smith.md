@@ -1,10 +1,6 @@
 **The Rise of the Stjerneblods**
 
-A Nordic Saga
-
-**Synopsis**: `Sigurd Stjerneskjold, a Nordic warrior on the frontier planet of Veles, discovers an unparalleled deposit of Trilium with scientist Helga Lysfjord. When NetixXLabs comes with experimental equipment to tap into the Trilium energy, Sigurd rallies a group of Nordics to volunteer for a risky procedure that changes everything. Now turned into the Stjerneblods—enhanced beings with extraordinary abilities—their new-found power attracts unwanted attention from the Federation.`
-
-`As the Stjerneblods strive to maintain their colony and control their developing gifts, Sigurd must determine if the price of power is worth the cost of their humanity.`
+***A Nordic Saga***
 
 The exotic flora of Veles bent under Sigurd Stjerneskjold's heavy boots, each step like the press of iron into the earth. The vegetation beneath him felt strange, firm yet pliant, crunching faintly in the crisp air. 
 

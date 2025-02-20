@@ -6,18 +6,6 @@ A Nordic Saga
 
 `As the Stjerneblods strive to maintain their colony and control their developing gifts, Sigurd must determine if the price of power is worth the cost of their humanity.`
 
-**Story Title: The Rise of the Stjerneblods** 
-
-**Author: David Smith**
-
-**WAX Wallet Address: 4a5ou.c.wam**
-
-**Lore Placement: Veles; Post Federation**
-
-**Date Submitted: 12/11/24**
-
-**Word Count: 5800**
-
 The exotic flora of Veles bent under Sigurd Stjerneskjold's heavy boots, each step like the press of iron into the earth. The vegetation beneath him felt strange, firm yet pliant, crunching faintly in the crisp air. 
 
 Ahead, twin moons clung to the horizon, their soft glow spilling over the rolling hills like liquid silver. Long shadows stretched across the landscape, merging with the pale light to create an almost tangible contrast between the familiar and the unknown.

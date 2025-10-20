@@ -4803,7 +4803,7 @@ Sometimes, KavTech counter-intel arrives as kindness. A black envelope slides ac
 
 ## KavTech Facilities & Reach
 
-KavTech has no capital. No planet you can point to and say, \*There. That's where they belong.\* No single city where banners flap in the wind. To look for a KavTech home world is to miss the point entirely.
+KavTech has no capital. No planet you can point to and say, *There. That's where they belong.* No single city where banners flap in the wind. To look for a KavTech home world is to miss the point entirely.
 
 KavTech moves. It drifts.
 
@@ -4881,7 +4881,7 @@ They don't drag anyone in chains, don't scoop people up off the street. They wai
 
 The deal is simple: desperation becomes volunteering. KavTech buys it cheap and sells it high, and all the while they keep charts and numbers on their screens. Panic starts out sharp and jagged, but with every credit added, with every meal guaranteed, the line dips. A curve that slides down smooth as oil.
 
-And KavTech scientists smile at that curve, because to them it isn't fear anymore…it's data.
+And KavTech scientists smile at that curve, because to them it isn't fear anymore...it's data.
 
 Naron is cold, industrial, pragmatic and a natural home for KavTech's asteroid bastions. Here, Lopati engineers shape hulls and cloister decks, building stress-dampers and dispersal systems for the Behemoth. In exchange, KavTech provides resonance stabilizers powered by refined Trilium that keep Lopati-owned Naron factories from tearing themselves apart under strain.
 
@@ -4925,7 +4925,7 @@ The steaming swamps of Kavian was where the first KavTech deals were struck, wit
 
 Children of Reptiloid tribes vanished into the Black Temples. They returned taller, harder, their eyes glowing the harsh blue of Neural Sync Arrays grafted along their spines. These arrays funneled Triactor-stabilized Trilium directly into nerves and muscle and overwrote shapeshifting with loyalty etched in living circuitry.
 
-Shapeshifting was gone, cut out. In its place: fixed, sculpted forms designed only for war. Their spines sprout nodes wired into bone. Their muscles carried the twitch of predators. Their reflexes didn't answer to will anymore… they answered to command.
+Shapeshifting was gone, cut out. In its place: fixed, sculpted forms designed only for war. Their spines sprout nodes wired into bone. Their muscles carried the twitch of predators. Their reflexes didn't answer to will anymore... they answered to command.
 
 The Enhanced Reptiloids were efficient, yes. But every victory cost a people their soul. The tribes lost whole generations to KavTech. The storytellers don't call these soldiers heroes. They call them living proof of what happens when you bargain with the wrong hand.
 
@@ -5135,9 +5135,9 @@ Altans are a rare sight, almost mythical inside the corporation's walls. When on
 
 You don't see them often. That's the point. If an Altan is there, the project is bigger than anyone wants to admit. Bigger than safe.
 
-The staff have a saying, half-joke, half-warning: "*Where an Altan walks, the ledger will bleed*." And everyone laughs when they say it, but nobody's really laughing.
+The staff have a saying, half-joke, half-warning: "Where an Altan walks, the ledger will bleed." And everyone laughs when they say it, but nobody's really laughing.
 
-In KavTech, The Lopati build. That's what they do, that's what they live for. Engineers, stone-setters, welders of steel and hull alike. They've got a knack for stress dispersal \\- how to bend a load so the whole structure doesn't crack \- and that makes them priceless when a Behemoth groans or an asteroid bastion needs shoring up. Pragmatic people, through and through.
+In KavTech, The Lopati build. That's what they do, that's what they live for. Engineers, stone-setters, welders of steel and hull alike. They've got a knack for stress dispersal \- how to bend a load so the whole structure doesn't crack \- and that makes them priceless when a Behemoth groans or an asteroid bastion needs shoring up. Pragmatic people, through and through.
 
 They don't care much for KavTech's messy ethics, but they grit their teeth and work anyway, because the tools are good and the work matters. Half the clever tricks in the joint hull designs? Lopati hands were in them, even if no one outside the corporation will ever know.
 

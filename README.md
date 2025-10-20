@@ -4681,7 +4681,7 @@ KavTech divides practice into Orders, each both guild and congregation, each wit
 
 \* Seal: A shield of three edges.
 
-\*Order of Provisioners\*
+*Order of Provisioners*
 
 \* Charge: Manage logistics, offer bribes, dispense alms, create cover stories, and make hungry places grateful while calming loud ones.
 
